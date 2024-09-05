@@ -157,6 +157,7 @@ class Program
                 if (answer == "ja")
                 {
                     Console.Clear();
+                    lifesLeft = 6;
                 }
                 else
                 {
